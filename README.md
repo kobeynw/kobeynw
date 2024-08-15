@@ -1,4 +1,5 @@
 - Hi, I’m @kobeynw
 - I’m love mountain biking, Star Wars, game development, and coding!
-- I’m currently learning C#
+- Programming languages I code in: Python, C++, C#, HTML/CSS, Javascript, SQL, MATLAB
+- I’m currently learning Java
 - How to reach me: https://www.linkedin.com/in/kobey-workman/
